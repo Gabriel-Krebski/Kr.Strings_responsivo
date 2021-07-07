@@ -1,0 +1,1 @@
+# Kr.Strings_responsivo
